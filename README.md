@@ -4,11 +4,11 @@ A semantic file search system that lets you describe files in natural language a
 
 ## Features
 
-- 🔍 Natural language file search across all drives
-- 🤖 AI-powered chatbot interface
-- 📄 Supports text, code, PDF, Word, Excel files
-- 🎨 Modern dark-themed UI
-- 🆓 Completely free using Groq + Voyage AI
+-  Natural language file search across all drives
+-  AI-powered chatbot interface
+-  Supports text, code, PDF, Word, Excel files
+-  Modern dark-themed UI
+-  Completely free using Groq + Voyage AI
 
 ## Setup
 
